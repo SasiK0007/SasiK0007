@@ -20,7 +20,7 @@ I am a passionate **Test Automation Engineer** with deep expertise in **Selenium
 
 ## 🔹 GitHub Stats  
 ![Kakara Sasikiran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&langs_count=3&theme=dark&hide=html,css&langs=Java,Python,JavaScript)  
 
 ## 🔹 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/sasikirankakara/)  
