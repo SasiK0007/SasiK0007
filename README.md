@@ -19,11 +19,11 @@ I am a passionate **Test Automation Engineer** with deep expertise in **Selenium
 - **Version Control & CI/CD:** GitHub | GitLab | Jenkins  
 
 ## 🔹 GitHub Stats  
-![Kakara Sasikiran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark)  
+![Kakara Sasikiran's GitHub Stats](#)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark)  
 
 ## 🔹 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/your-profile)  
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:your-email@example.com)  
+[![LinkedIn](#)  
+[![Email](#)  
 
 🚀 _Let's automate the future together!_ 💻🔥  
